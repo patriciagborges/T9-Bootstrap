@@ -1,7 +1,38 @@
 .bg-roxo{
-    background-color: #7E459B;
+  background-color: #7E459B;
 }
 
 a:hover{
-  font-weight: bold;
+font-weight: bold;
+}
+
+.img_carousel {
+  object-fit: cover;
+  object-position: 10% 35%;
+  height: 500px;
+
+}
+
+.link-sobre{
+color:  #7E459B;  
+}
+
+.link-sobre:hover{
+color:  #7E459B;
+}
+
+.redes-sociais i{
+font-size: 1.6rem;
+}
+
+.font-roxo{
+color: rgb(75, 38, 94);
+}
+
+button{
+width: 100px;
+}
+
+button:hover{
+opacity: .9;
 }
